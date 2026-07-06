@@ -161,7 +161,7 @@ pip install -r requirements.txt
 
 B.Tech CSE Student
 
-Aspiring Data Analyst | Machine Learning Enthusiast
+B.Tech CSE Student | Aspiring Data Scientist | Data Analytics | Machine Learning | Python | SQL | Tableau | Open to Internship Opportunities
 
 ---
 
